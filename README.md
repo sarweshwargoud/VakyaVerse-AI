@@ -1,4 +1,4 @@
-# 🌐 VakyaVerse
+# 🌐 VakyaVerse.
 
 > **Intelligent AI Translation Platform**  
 > Translate text, voice, and images across Indian languages and world's top languages — all in real-time, no API keys required.
